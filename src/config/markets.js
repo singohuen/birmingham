@@ -1,0 +1,42 @@
+export default [
+  {
+    name: "GLOUCESTER",
+    players: 2,
+    bonus: "FREE_DEVELOP",
+    slots: 2,
+    x: 26,
+    y: 50,
+  },
+  {
+    name: "OXFORD",
+    players: 2,
+    bonus: "TWO_INCOME",
+    slots: 2,
+    x: 39,
+    y: 45,
+  },
+  {
+    name: "SHREWSBURY",
+    players: 2,
+    bonus: "FOUR_VP",
+    slots: 1,
+    x: 3,
+    y: 28,
+  },
+  {
+    name: "WARRINGTON",
+    players: 3,
+    bonus: "FIVE_MONEY",
+    slots: 2,
+    x: 13,
+    y: 2,
+  },
+  {
+    name: "NOTTINGHAM",
+    players: 4,
+    bonus: "THREE_VP",
+    slots: 2,
+    x: 48,
+    y: 9,
+  },
+];
